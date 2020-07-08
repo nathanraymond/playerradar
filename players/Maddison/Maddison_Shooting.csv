@@ -1,0 +1,19 @@
+﻿Season,Age,Squad,Country,Comp,LgRank,90s,Gls,PK,PKatt,Sh,SoT,FK,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+2014-2015,17,Coventry City,eng ENG,3. League One,17th,4.9,2,0,0,,4,,,,0.81,,0.5,,,,,,Matches
+2015-2016,18,Coventry City,eng ENG,3. League One,8th,14,3,0,0,,10,,,,0.72,,0.3,,,,,,Matches
+2016-2017,19,Aberdeen,sco SCO,1. Premiership,2nd,10.8,2,0,0,,9,,,,0.84,,0.22,,,,,,Matches
+2016-2017,19,Norwich City,eng ENG,2. Championship,8th,0.4,1,0,0,0,1,,,0,2.57,,1,,,,,,Matches
+2017-2018,20,Norwich City,eng ENG,2. Championship,14th,40.3,14,3,3,117,30,,25.6,2.9,0.74,0.09,0.37,,,,,,Matches
+2018-2019,21,Leicester City,eng ENG,1. Premier League,9th,31.6,7,1,2,82,27,14,32.9,2.59,0.85,0.07,0.22,7.4,5.8,0.07,-0.4,0.2,Matches
+2019-2020,22,Leicester City,eng ENG,1. Premier League,3rd,26.7,6,0,0,62,17,12,27.4,2.32,0.64,0.1,0.35,4.4,4.4,0.07,1.6,1.6,Matches
+6 Seasons,,4 Clubs,,4 Leagues,,128.7,35,4,5,261,98,26,28.7,2.63,0.76,0.09,0.32,11.8,10.3,0.07,1.2,20.7,
+Leicester City (2 Seasons),,,,1 League,,58.4,13,1,2,144,44,26,30.6,2.47,0.75,0.08,0.27,11.8,10.3,0.07,1.2,1.7,
+Norwich City (2 Seasons),,,,1 League,,40.7,15,3,3,117,31,,26.5,2.87,0.76,0.1,0.39,,,,,,
+Coventry City (2 Seasons),,,,1 League,,18.9,5,0,0,,14,,,,0.74,,0.36,,,,,,
+Aberdeen (1 Season),,,,1 League,,10.8,2,0,0,,9,,,,0.84,,0.22,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Premier League (2 Seasons),,,,,,58.4,13,1,2,144,44,26,30.6,2.47,0.75,0.08,0.27,11.8,10.3,0.07,1.2,1.7,
+Championship (2 Seasons),,,,,,40.7,15,3,3,117,31,,26.5,2.87,0.76,0.1,0.39,,,,,,
+League One (2 Seasons),,,,,,18.9,5,0,0,,14,,,,0.74,,0.36,,,,,,
+Premiership (1 Season),,,,,,10.8,2,0,0,,9,,,,0.84,,0.22,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
